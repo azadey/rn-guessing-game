@@ -1,5 +1,6 @@
-# rn-guessing-game
-React Native mobile app guessing game
+# React Native Guessing Game
+React Native mobile app guessing game  for android and iphone.
+Expo Go was used for development environment.
 
 ### About
 
