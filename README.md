@@ -10,8 +10,9 @@ THis was done under the course React Native - The Practical Guide (2022)
 ### `npm start`
 
 Runs the app in the development mode.
-Press a to run the app in android emulator
-Press i to run the app in iphone emulator
+- Press a to run the app in android emulator
+- Press i to run the app in iphone emulator
+- Press r to reload the app in both emulator
 
 ### Home Screen
 
